@@ -1,0 +1,8 @@
+com\mycompany\lab7practice\resources\JakartaEE10Resource.class
+data\UserDB.class
+model\Product.class
+ShoppingServlet.class
+data\ProductDB.class
+com\mycompany\lab7practice\JakartaRestConfiguration.class
+AccountBean.class
+model\User.class
